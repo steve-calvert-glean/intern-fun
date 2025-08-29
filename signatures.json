@@ -1,0 +1,24 @@
+{
+  "signatures": [
+    {
+      "name": "Rob",
+      "message": "Why did the math book look so sad when you left? Because it's full of problems without you to solve them! Good luck at school!"
+    },
+    {
+      "name": "David",
+      "message": "What's the difference between our office and your classroom? At school, you get grades for sleeping through meetings! We'll miss having you around!"
+    },
+    {
+      "name": "Chris",
+      "message": "Why don't scientists trust atoms in college? Because they make up everything... just like your excuses for leaving us! Best of luck with your studies!"
+    },
+    {
+      "name": "Andriy",
+      "message": "What did the code say when you left for school? 'I'm having a breakdown!' Don't worry, we'll try to debug without you. Study hard!"
+    },
+    {
+      "name": "Steve",
+      "message": "Why is our team like a broken pencil without you? Pointless! Thanks for all your hard work this summer. Go ace those classes!"
+    }
+  ]
+}
